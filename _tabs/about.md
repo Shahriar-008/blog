@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> # 👋 Hi, I'm Shahriar Hossen  
+> # 👋 Hi, I'm Shahriar Hussain  
 
 🚀 **Backend Engineering & DevOps Enthusiast**  
 💻 Currently learning and building with **Python**  
