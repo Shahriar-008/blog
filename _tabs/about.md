@@ -36,8 +36,8 @@ order: 4
 
 ## 📬 Connect with Me  
 - 🌐 Portfolio: *Coming Soon*  
-- 💼 LinkedIn:  
-- 🐙 GitHub:   
+- 💼 LinkedIn: [Md Shahriar Hussain](https://www.linkedin.com/in/md-shahriar-hussain-852002308/)  
+- 🐙 GitHub: [Shahriar-008](https://github.com/Shahriar-008)   
 
 ---
 ⭐ *“Keep building, keep automating, keep learning.”*
